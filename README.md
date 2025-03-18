@@ -1,6 +1,4 @@
 # Bank-Management-System
-🏦 Bank Account Management System (C++ OOP)
-
 
 This project is a simple Bank Account Management System implemented using Object-Oriented Programming (OOP) concepts in C++. It demonstrates the use of classes, encapsulation, constructors, and basic banking operations like deposit and withdrawal.
 
